@@ -1,0 +1,37 @@
+
+["Player Configuration"]
+	#Changes how much EXP is added per level-up, high values may make leveling difficult (Default: 25)
+	"EXP Multiplier" = 25.0
+	#Changes how many Skill Points are given per level-up (Default: 5)
+	"Skill Points Per Level" = 5.0
+	#Allows stand arrows to be re-usable (Default: false)
+	"Re-useable Arrows" = false
+
+["World Configuration"]
+	#Enables or Disables spawning for Stand Meteorites (Default: true)
+	"Meteorite Spawning" = true
+	#Enables or Disables spawning for NPCs (Default: true)
+	"NPC Spawning" = true
+
+["Stand Configuration"]
+	#Enables stands to break blocks/be destructive (Default: true)
+	"Stand Block Breaking" = true
+	#Allows the losing of Stands on death (Default: false)
+	"Lose Stand On Death" = false
+	#Allows only one player to have a certain Stand at a time, disables Stand Disc crafting. (Default: false)
+	"Single Stand Per Player" = false
+	#Allows players to rarely spawn with a stand (Default: true)
+	"Natural Stand Users" = true
+	#Percentage chance of a player spawning with a stand (Default: 5)
+	"Natural Stand Chance" = 5.0
+	#Percentage chance of a Hamon User recieving Hermit Purple (Default: 25)
+	"Hamon Hermit Purple Chance" = 25.0
+	#Percentage chance of a Vampire recieving The World (Default: 25)
+	"Vampire The World Chance" = 25.0
+	#The minimum amount of attacks a Stand User can block with 0 durability (Default: 5)
+	"Minimum Block" = 5.0
+	#The amount of Skill Points it costs to change stand skins (Default: 3)
+	"Skin Cost" = 3.0
+	#Allows rare skins to be available to everyone without unlocking (Default: false)
+	"Rare Skins Unlocked" = false
+

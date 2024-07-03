@@ -1,0 +1,15 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "ad_astra:astrodux": {
+      "viewedEntries": [
+        "ad_astra:the_hot_planets/jet_suit",
+        "ad_astra:the_hot_planets/proxima_centauri",
+        "ad_astra:surviving_mars/venus_and_mercury"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

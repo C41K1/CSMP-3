@@ -1,0 +1,129 @@
+
+["Creator's Note"]
+	"Stand Stats" = "Values over 100 may have unintend effects on gameplay."
+	"Stand Abilities" = "Ability 1 will always been automatically unlocked. Make sure the names are typed properly, refer to the move directory config."
+
+["Star Platinum"]
+	#Increases the Power of your Stand's Moves (Default: 100)
+	Strength = 100.0
+	#Increases your Health, and Decreases Damage Taken (Default: 100)
+	Durability = 100.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 100)
+	Precision = 100.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 100)
+	Potential = 100.0
+	"Ability 1" = "Fist Barrage"
+	"Ability 2" = "Zoom"
+	"Ability 3" = "Inhale"
+	"Ability 4" = "Bearing Shot"
+	"Ability 5" = "Star Finger"
+	"Ability 6" = "Time Skip"
+	"Ability 7" = "Short Timestop"
+	"Ability 8" = ""
+	"Ability 9" = ""
+
+["Magician's Red"]
+	#Increases the Power of your Stand's Moves (Default: 80)
+	Strength = 80.0
+	#Increases your Health, and Decreases Damage Taken (Default: 80)
+	Durability = 80.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 60)
+	Precision = 60.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 40)
+	Potential = 40.0
+	"Ability 1" = "Crossfire Hurricane"
+	"Ability 2" = "Life Detector"
+	"Ability 3" = "Red Bind"
+	"Ability 4" = "Crossfire: Special"
+	"Ability 5" = ""
+	"Ability 6" = ""
+	"Ability 7" = ""
+	"Ability 8" = ""
+	"Ability 9" = ""
+
+["Hierophant Green"]
+	#Increases the Power of your Stand's Moves (Default: 60)
+	Strength = 60.0
+	#Increases your Health, and Decreases Damage Taken (Default: 80)
+	Durability = 80.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 60)
+	Precision = 60.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 40)
+	Potential = 40.0
+	"Ability 1" = "Emerald Splash"
+	"Ability 2" = "Grapple"
+	"Ability 3" = "Emerald Barrier"
+	"Ability 4" = "Body Control"
+	"Ability 5" = ""
+	"Ability 6" = ""
+	"Ability 7" = ""
+	"Ability 8" = ""
+	"Ability 9" = ""
+
+["Silver Chariot"]
+	#Increases the Power of your Stand's Moves (Default: 60)
+	Strength = 60.0
+	#Increases your Health, and Decreases Damage Taken (Default: 80)
+	Durability = 80.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 80)
+	Precision = 80.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 60)
+	Potential = 60.0
+	"Ability 1" = "Sword Barrage"
+	"Ability 2" = "Sword Launch"
+	"Ability 3" = "Blade Cyclone"
+	"Ability 4" = "Armor Off"
+	"Ability 5" = ""
+	"Ability 6" = ""
+	"Ability 7" = ""
+	"Ability 8" = ""
+	"Ability 9" = ""
+
+["Hermit Purple"]
+	#Increases the Power of your Stand's Moves (Default: 40)
+	Strength = 40.0
+	#Increases your Health, and Decreases Damage Taken (Default: 100)
+	Durability = 100.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 40)
+	Precision = 40.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 20)
+	Potential = 20.0
+
+["The Fool"]
+	#Increases the Power of your Stand's Moves (Default: 80)
+	Strength = 80.0
+	#Increases your Health, and Decreases Damage Taken (Default: 60)
+	Durability = 60.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 40)
+	Precision = 40.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 60)
+	Potential = 60.0
+	"Ability 1" = "Quicksand"
+	"Ability 2" = "Sand Glider"
+	"Ability 3" = "Sand Dome"
+	"Ability 4" = ""
+	"Ability 5" = ""
+	"Ability 6" = ""
+	"Ability 7" = ""
+	"Ability 8" = ""
+	"Ability 9" = ""
+
+["The World"]
+	#Increases the Power of your Stand's Moves (Default: 100)
+	Strength = 100.0
+	#Increases your Health, and Decreases Damage Taken (Default: 100)
+	Durability = 100.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 80)
+	Precision = 80.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 80)
+	Potential = 80.0
+	"Ability 1" = "Fist Barrage"
+	"Ability 2" = "Knife Throw"
+	"Ability 3" = "Kick Barrage"
+	"Ability 4" = "Time Skip"
+	"Ability 5" = "Time Stop"
+	"Ability 6" = "Timestop Counter"
+	"Ability 7" = "Road Roller"
+	"Ability 8" = ""
+	"Ability 9" = ""
+

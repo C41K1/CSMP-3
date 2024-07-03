@@ -1,0 +1,115 @@
+
+["Creator's Note"]
+	"Stand Stats" = "Values over 100 may have unintend effects on gameplay!"
+	"Stand Abilities" = "Ability 1 will always been automatically unlocked. Make sure the names are typed properly, refer to the move directory config."
+
+["Crazy Diamond"]
+	#Increases the Power of your Stand's Moves (Default: 100)
+	Strength = 100.0
+	#Increases your Block, and Guard (Default: 80)
+	Durability = 80.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 80)
+	Precision = 80.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 60)
+	Potential = 60.0
+
+["The Hand"]
+	#Increases the Power of your Stand's Moves (Default: 80)
+	Strength = 80.0
+	#Increases your Block, and Guard (Default: 60)
+	Durability = 60.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 60)
+	Precision = 60.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 60)
+	Potential = 60.0
+
+["Heaven's Door"]
+	#Increases the Power of your Stand's Moves (Default: 40)
+	Strength = 40.0
+	#Increases your Block, and Guard (Default: 80)
+	Durability = 80.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 60)
+	Precision = 60.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 100)
+	Potential = 100.0
+
+["Echoes Act 0"]
+	#Increases the Power of your Stand's Moves (Default: 20)
+	Strength = 20.0
+	#Increases your Block, and Guard (Default: 80)
+	Durability = 80.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 60)
+	Precision = 60.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 100)
+	Potential = 100.0
+
+["Echoes Act 1"]
+	#Increases the Power of your Stand's Moves (Default: 20)
+	Strength = 20.0
+	#Increases your Block, and Guard (Default: 80)
+	Durability = 80.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 60)
+	Precision = 60.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 100)
+	Potential = 100.0
+
+["Echoes Act 2"]
+	#Increases the Power of your Stand's Moves (Default: 60)
+	Strength = 60.0
+	#Increases your Block, and Guard (Default: 80)
+	Durability = 80.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 60)
+	Precision = 60.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 100)
+	Potential = 100.0
+
+["Echoes Act 3"]
+	#Increases the Power of your Stand's Moves (Default: 80)
+	Strength = 80.0
+	#Increases your Block, and Guard (Default: 80)
+	Durability = 80.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 60)
+	Precision = 60.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 100)
+	Potential = 100.0
+
+[Harvest]
+	#Increases the Power of your Stand's Moves (Default: 20)
+	Strength = 20.0
+	#Increases your Block, and Guard (Default: 100)
+	Durability = 100.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 20)
+	Precision = 20.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 60)
+	Potential = 60.0
+
+["Love Deluxe"]
+	#Increases the Power of your Stand's Moves (Default: 80)
+	Strength = 80.0
+	#Increases your Block, and Guard (Default: 100)
+	Durability = 100.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 20)
+	Precision = 20.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 80)
+	Potential = 80.0
+
+["Red Hot Chili Peppers"]
+	#Increases the Power of your Stand's Moves (Default: 100)
+	Strength = 100.0
+	#Increases your Block, and Guard (Default: 100)
+	Durability = 100.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 60)
+	Precision = 60.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 100)
+	Potential = 100.0
+
+["Killer Queen"]
+	#Increases the Power of your Stand's Moves (Default: 100)
+	Strength = 100.0
+	#Increases your Block, and Guard (Default: 80)
+	Durability = 80.0
+	#Increases the Effectiveness of your Stand's Moves (Default: 80)
+	Precision = 80.0
+	#Allows your Stand to Acquire More Moves and EXP (Default: 100)
+	Potential = 100.0
+

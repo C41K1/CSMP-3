@@ -1,0 +1,51 @@
+
+["Player Configuration"]
+	#Changes how much EXP is added per level-up, high values may make leveling difficult (Default: 25)
+	"EXP Multiplier" = 25.0
+	#Changes how many Skill Points are given per level-up (Default: 5)
+	"Skill Points Per Level" = 5.0
+	#Allows stand arrows to be re-usable (Default: false)
+	"Re-useable Arrows" = false
+
+["World / NPC Configuration"]
+	#Enables or Disables spawning for Stand Meteorites (Default: true)
+	"Meteorite Spawning" = true
+	#Enables or Disables spawning for NPCs (Default: true)
+	"NPC Spawning" = true
+	#Allows NPC's to manipulate time when fighting other NPCs (Will always be true against players) (Default: true)
+	"NPC Time Manipulation" = true
+	#Allows Boss NPCs to have a chance to drop regular or shiny arrows on death (Default: true)
+	"Boss Arrows" = true
+	#The percentage chance for a boss to drop any stand arrow upon death (Default: 25)
+	"Stand Arrow Chance" = 25.0
+	#The percentage chance for a boss to drop shiny arrow upon death (Default: 10)
+	"Shiny Arrow Chance" = 10.0
+	#Allows NPCs to have a chance to drop their stand disc on death (Default: true)
+	"Disc Drops" = true
+	#The percentage chance for a stand user to drop their stand disc on death (Default: 1)
+	"Disc Drop Chance" = 1.0
+
+["Stand Configuration"]
+	#Enables stands to break blocks/be destructive (Default: true)
+	"Stand Block Breaking" = true
+	#Allows the losing of Stands on death (Default: false)
+	"Lose Stand On Death" = false
+	#Allows only one player to have a certain Stand at a time, disables Stand Disc crafting. (Default: false)
+	"Single Stand Per Player" = false
+	#Allows players to rarely spawn with a stand (Default: true)
+	"Natural Stand Users" = true
+	#Percentage chance of a player spawning with a stand (Default: 5)
+	"Natural Stand Chance" = 5.0
+	#Percentage chance of a Hamon User recieving Hermit Purple (Default: 25)
+	"Hamon Hermit Purple Chance" = 25.0
+	#Percentage chance of a Vampire recieving The World (Default: 25)
+	"Vampire The World Chance" = 25.0
+	#The minimum amount of attacks a Stand User can block with 0 durability (Default: 5)
+	"Minimum Block" = 5.0
+	#The amount of Skill Points it costs to change stand skins (Default: 3)
+	"Skin Cost" = 3.0
+	#Allows rare skins to be available to everyone without unlocking (Default: false)
+	"Rare Skins Unlocked" = false
+	#Allows a stand with the time stop/time skip skill to evolve it by experiencing frozen time. (Default: true)
+	"Evolveable Time Stop" = true
+

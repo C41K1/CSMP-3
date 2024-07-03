@@ -1,0 +1,176 @@
+
+["Creator's Note"]
+	"Stand Costs" = "The cost of the skill in the skill tree"
+	"Stand Potential" = "The amount of potential stat needed to unlock the move"
+	"Stand Cooldowns" = "Cooldowns are in ticks, (Seconds * 20 = ticks)"
+
+["Fist Barrage"]
+	Cost = 1.0
+	Potential = 5.0
+	"Cooldown Max" = 400.0
+	"Cooldown Min" = 150.0
+
+["Kick Barrage"]
+	Cost = 5.0
+	Potential = 30.0
+	"Cooldown Max" = 400.0
+	"Cooldown Min" = 150.0
+
+["Bearing Shot"]
+	Cost = 5.0
+	Potential = 35.0
+	"Cooldown Max" = 200.0
+	"Cooldown Min" = 100.0
+
+[Inhale]
+	Cost = 3.0
+	Potential = 20.0
+	"Cooldown Max" = 400.0
+	"Cooldown Min" = 150.0
+
+["Star Finger"]
+	Cost = 5.0
+	Potential = 50.0
+	"Cooldown Max" = 400.0
+	"Cooldown Min" = 150.0
+
+["Time Skip"]
+	Cost = 5.0
+	Potential = 60.0
+	"Cooldown Max" = 500.0
+	"Cooldown Min" = 200.0
+
+["Short Timestop"]
+	Cost = 10.0
+	Potential = 80.0
+	"Cooldown Max" = 2400.0
+	"Cooldown Min" = 1000.0
+
+["Time Stop"]
+	Cost = 10.0
+	Potential = 70.0
+	"Cooldown Max" = 2400.0
+	"Cooldown Min" = 1200.0
+
+["Knife Throw"]
+	Cost = 3.0
+	Potential = 10.0
+	"Cooldown Max" = 250.0
+	"Cooldown Min" = 100.0
+
+["Road Roller"]
+	Cost = 10.0
+	Potential = 80.0
+	"Cooldown Max" = 200.0
+	"Cooldown Min" = 200.0
+
+["Crossfire Hurricane"]
+	Cost = 1.0
+	Potential = 5.0
+	"Cooldown Max" = 450.0
+	"Cooldown Min" = 300.0
+
+["Crossfire: Special"]
+	Cost = 5.0
+	Potential = 40.0
+	"Cooldown Max" = 350.0
+	"Cooldown Min" = 250.0
+
+["Red Bind"]
+	Cost = 3.0
+	Potential = 25.0
+	"Cooldown Max" = 400.0
+	"Cooldown Min" = 300.0
+
+["Life Detector"]
+	Cost = 3.0
+	Potential = 10.0
+	"Cooldown Max" = 600.0
+	"Cooldown Min" = 400.0
+
+[Tangle]
+	Cost = 5.0
+	Potential = 20.0
+	"Cooldown Max" = 400.0
+	"Cooldown Min" = 400.0
+
+[Grapple]
+	Cost = 3.0
+	Potential = 10.0
+	"Cooldown Max" = 80.0
+	"Cooldown Min" = 40.0
+
+["Emerald Splash"]
+	Cost = 1.0
+	Potential = 5.0
+	"Cooldown Max" = 300.0
+	"Cooldown Min" = 200.0
+
+["Emerald Barrier"]
+	Cost = 3.0
+	Potential = 30.0
+	"Cooldown Max" = 1200.0
+	"Cooldown Min" = 1200.0
+
+["Body Control"]
+	Cost = 5.0
+	Potential = 40.0
+	"Cooldown Max" = 2000.0
+	"Cooldown Min" = 1500.0
+
+["Sword Launch"]
+	Cost = 3.0
+	Potential = 10.0
+	"Cooldown Max" = 200.0
+	"Cooldown Min" = 100.0
+
+["Blade Cyclone"]
+	Cost = 3.0
+	Potential = 30.0
+	"Cooldown Max" = 400.0
+	"Cooldown Min" = 200.0
+
+["Armor Off"]
+	Cost = 5.0
+	Potential = 50.0
+	"Cooldown Max" = 2400.0
+	"Cooldown Min" = 1400.0
+
+[Quicksand]
+	Cost = 1.0
+	Potential = 5.0
+	"Cooldown Max" = 300.0
+	"Cooldown Min" = 200.0
+
+["Sand Dome"]
+	Cost = 3.0
+	Potential = 30.0
+	"Cooldown Max" = 450.0
+	"Cooldown Min" = 350.0
+
+["Sand Glider"]
+	Cost = 3.0
+	Potential = 10.0
+	"Cooldown Max" = 400.0
+	"Cooldown Min" = 300.0
+
+["Sword Barrage"]
+	Cost = 1.0
+	Potential = 5.0
+	"Cooldown Max" = 400.0
+	"Cooldown Min" = 150.0
+
+[Divination]
+	Cost = 3.0
+	Potential = 10.0
+
+[Zoom]
+	Cost = 3.0
+	Potential = 10.0
+
+["Timestop Counter"]
+	Cost = 10.0
+	Potential = 80.0
+	"Cooldown Max" = 1200.0
+	"Cooldown Min" = 600.0
+
