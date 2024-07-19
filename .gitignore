@@ -31,7 +31,7 @@ downloads
 emojiful
 resourcepacks
 scripts
-server-resourcepacks
+server-resource-packs
 wd_filehost
 .qmenu_opened
 modpack.zip
@@ -41,4 +41,4 @@ wd_keyboard_warning.txt
 wd_next.txt
 options.txt
 *.disabled
-mods/tutorialmod-1.0.0-1.20.1.jar
+defaultconfigs
