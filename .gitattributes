@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 mods/tutorialmod-1.0.0-1.20.1.jar filter=lfs diff=lfs merge=lfs -text
+tutorialmod-1.0.6-1.20.1.jar filter=lfs diff=lfs merge=lfs -text
